@@ -1,0 +1,116 @@
+Named Entity                                                  Count
+----------------------------------------------------------  -------
+people                                                           22
+covid-19 infection                                                1
+\"Luigi Vanvitelli\                                               1
+elle-di                                                           1
+San Raffaele Research                                             1
+2 - 3                                                             1
+9,134                                                             1
+sars-cov2                                                         3
+covid-19                                                         16
+patient                                                          24
+visor                                                             1
+iuc                                                               1
+COVID-19                                                          6
+ema ( 4                                                           1
+remdesivir e                                                      1
+lung                                                              4
+arterial                                                          1
+People                                                            2
+angiotensin-converting enzyme (                                   1
+ace                                                               3
+human                                                             3
+coronaviruse                                                      1
+cell                                                              3
+angiotensin-converting enzyme 2                                   1
+ace2                                                              3
+epithelial cell                                                   1
+intestine                                                         1
+kidney                                                            3
+vessel                                                            1
+angiotensin ii type-1 receptor blocker                            1
+arb                                                               1
+thiazolidinedione                                                 1
+ibuprofen                                                         1
+cardiovascular                                                    3
+EBM                                                               1
+dipeptidyl peptidase iv                                           1
+dpp-4                                                             1
+coronavirus                                                      10
+human dpp-4 receptor                                              1
+mouse                                                             2
+ddp-4 receptor                                                    1
+pulmonary alveolar cell                                           1
+dm                                                                4
+mers-coronavirus                                                  1
+pulmonary                                                         2
+macrophage infiltrate                                             1
+dpp4-inhibitor                                                    1
+glucose                                                           8
+neutrophil                                                        2
+h1n1                                                              2
+Coronavirus                                                       3
+covid-19 ( table 2                                                1
+heart                                                             2
+sars-cov-2                                                        4
+Wuhan                                                             5
+Hubei / Zhejiang province                                         1
+man                                                               1
+Wang 's                                                           1
+glucocorticoid                                                    1
+insulin                                                           9
+blood glucose                                                     5
+\"glycemic                                                        1
+endotoxin                                                         1
+monocyte                                                          1
+intracellular by-product                                          1
+membrane                                                          1
+covid-19-unit                                                     1
+pulmonary lesion                                                  1
+pulmonary endothelial cell                                        1
+leukocyte                                                         1
+alveolus                                                          1
+joint                                                             1
+line                                                              1
+NYX                                                               1
+sg                                                                1
+Guida clinica alla prevenzione e gestione   del   covid-19        2
+nelle                                                             2
+persone                                                           2
+con   diabete                                                     2
+amd-sid-sie                                                       1
+procedura                                                         1
+realizzazione                                                     1
+EMA Calls                                                         1
+Wuhan ,                                                           3
+Coronavirus Disease 2019                                          2
+ESC                                                               1
+ace-inhibitor                                                     1
+angiotensin receptor blocker                                      2
+hfsa/acc/aha                                                      1
+raas antagonist                                                   1
+Hubei Province                                                    1
+Patients                                                          5
+SARS-Cov-2                                                        1
+coronavirus pneumonia                                             1
+Insulin                                                           2
+Meal                                                              1
+type 2                                                            1
+Sliding-Scale insulin                                             1
+low-dose                                                          1
+endocrine                                                         1
+rabbit                                                            1
+carbohydrate                                                      1
+endothelial cell                                                  1
+h5n1                                                              1
+macrophage                                                        1
+leave                                                             1
+covid-19 patient                                                  1
+Tutto                                                             1
+f                                                                 1
+cecvd                                                             1
+cardio-vascular                                                   1
+coronavirus-19                                                    1
+comorbidities5                                                    1
+Nefrocenter Research Network & Nyx , research                     1

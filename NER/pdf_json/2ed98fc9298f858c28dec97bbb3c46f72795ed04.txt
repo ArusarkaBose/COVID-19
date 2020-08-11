@@ -1,0 +1,204 @@
+Named Entity                                              Count
+------------------------------------------------------  -------
+Ebola virus                                                  20
+human                                                         7
+coronavirus                                                   1
+h5n1 avian influenza                                          1
+Rift valley                                                   1
+foot                                                          1
+ebola virus                                                   2
+evd                                                          32
+EVD                                                           3
+filoviridae                                                   6
+Mononegavirales                                               2
+filamentous                                                   1
+latin filum                                                   1
+thread-like                                                   1
+ebov                                                         34
+Sudan Ebola virus                                             3
+Reston Ebola virus                                            4
+nucleotide                                                    2
+site/year                                                     1
+rnadependent rna polymerase                                   1
+rdrp                                                          4
+vp30                                                          4
+vp35                                                          5
+vp40                                                          2
+host cell                                                     1
+membrane                                                      1
+gp1                                                           2
+gp2                                                           1
+host cell surface factor                                      1
+np                                                            2
+matrix                                                        2
+vp24                                                          5
+vp 24                                                         1
+interferon antagonist [ 35 , 36 ] .                           1
+Ebola                                                         1
+cell                                                          3
+dendritic cell                                                1
+macrophage                                                    1
+vascular                                                      3
+drc                                                           1
+boy                                                           3
+fruit bat                                                     1
+insectivorous bat                                             1
+Liberia                                                       2
+Sierra Leone                                                  1
+Senegal                                                       1
+Nigeria and Mali                                              1
+traveller                                                     1
+patient                                                      27
+2 - 21                                                        1
+chill                                                         1
+gastrointestinal                                              1
+petechiae                                                     1
+mucosal haemorrhage                                           1
+abdominal                                                     1
+body fluid                                                    4
+convalescent                                                  1
+human respiratory tract                                       1
+ebov particle                                                 1
+human alveolus                                                1
+nonhuman primate                                              3
+nhp                                                           2
+lethal                                                        3
+rhesus macaque                                                2
+ebov-infected fluid                                           1
+sweat                                                         2
+blood                                                         6
+plasma                                                        3
+urine                                                         1
+body                                                          1
+evd survivor                                                  1
+friend                                                        1
+plasma transfusion                                            1
+convalescent patient                                          4
+convalescent serum                                            2
+hyperimmune globulin                                          1
+rabie                                                         1
+varicella-zoster virus                                        1
+Kikwit                                                        4
+DRC                                                           1
+igg ebov antibody                                             1
+serum                                                         1
+a.                                                            1
+zmapp                                                         8
+tobacco                                                       1
+c2g4                                                          1
+c4g7                                                          1
+Brincidofovir                                                 1
+cmx-001                                                       1
+lipid                                                         2
+cidofovir                                                     2
+dna                                                           2
+adenovirus                                                    3
+herpes virus                                                  1
+orthopoxviruse                                                1
+papillomavirus                                                1
+polyomaviruse                                                 1
+anti-ebov                                                     2
+renal                                                         1
+pyrazinecarboxamide                                           1
+favipiravir                                                   7
+arenavirus                                                    1
+bunyavirus                                                    2
+adenosine                                                     1
+bcx-3340                                                      1
+intravenous                                                   1
+polyethylenimine                                              1
+pmo                                                           4
+avi-6002                                                      2
+cytoplasm                                                     1
+rvsv                                                          3
+ebov gp                                                       1
+chimpanzee adenovirus serotype 3                              1
+adenovirus serotype 3                                         1
+cad3-ebo                                                      1
+glaxo-smithkline                                              1
+Allergy                                                       2
+nhp [ 92 , 93 ] .                                             1
+vesicular stomatitis virus                                    1
+rhabdoviridae                                                 1
+human adenovirus serotype 5                                   1
+ad5                                                           1
+cad3                                                          3
+adenovirus serotype                                           1
+chimpanzee                                                    1
+(h5n1)-endemic                                                1
+UK foot-and-mouth                                             1
+Rift Valley                                                   1
+genetics-based                                                1
+filovirus                                                     4
+nonstructural small glycoprotein                              2
+sgp                                                           3
+endosomal cathepsin                                           1
+pseudotyped human immunodeficiency virus type 1 virion        1
+cytoskeletal                                                  1
+tumor necrosis factor alpha                                   1
+Ebola virus glycoprotein mucin-like domain                    1
+Ebola virus nucleocapsid                                      1
+virion-associated protein 35                                  1
+nucleoprotein                                                 1
+Ebola virus vp30                                              1
+l-vp35                                                        1
+l-l                                                           1
+amino terminus                                                1
+Ebola virus l                                                 1
+Ebola virus vp35                                              2
+interferon regulatory factor 3                                1
+type i ifn                                                    1
+Marburg virus                                                 1
+ebolavirus vp24 interferon antagonist                         1
+stat1                                                         1
+pyramidal                                                     1
+Ebola virus secretory glycoprotein                            1
+fc gamma riiib-to-cr3                                         1
+neutrophil                                                    1
+virus sgp                                                     1
+human neutrophil                                              1
+delta-peptide                                                 1
+Zaire Ebola virus                                             1
+Lassa                                                         1
+Von Saint Andre-von Arnim a.                                  1
+convalescent Ebola                                            1
+Congo                                                         2
+Lutte contre le Epidemies                                     1
+tissue                                                        1
+cellular                                                      1
+rhesus monkey                                                 1
+zaire ebolavirus                                              1
+cynomolgus macaque                                            1
+cmx001                                                        3
+mouse                                                         2
+ectromelia virus                                              1
+Poxvirus                                                      1
+t-705                                                         6
+triphosphate                                                  1
+oral                                                          1
+ribavirin                                                     1
+oral t-705                                                    1
+bcx4430                                                       1
+FDA                                                           1
+postexposure                                                  1
+non-human primate                                             1
+lethal Ebola virus                                            2
+chimpanzee adenovirus                                         1
+chimpanzee adenovirus vaccine                                 1
+Ebola Virus                                                   1
+lloviu virus                                                  1
+llov                                                          2
+\u00aa                                                        1
+Lloviu                                                        2
+LLOV                                                          1
+Schreiber 's long-fingered bat                                1
+ta\u20ac                                                      1
+Bundibugyo Ebola virus                                        1
+marburg virus                                                 1
+ravn virus                                                    1
+cmv                                                           1
+cytomegalovirus                                               1
+adv                                                           1
+vp                                                            1
+GSK                                                           1
+glaxosmithkline                                               1

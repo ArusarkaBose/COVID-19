@@ -1,0 +1,21 @@
+Named Entity                Count
+------------------------  -------
+Fraser Health (                 1
+fh                             18
+people                          2
+fh spread                       1
+patient                        45
+\"to                            1
+decision-making.\               1
+membersfor                      1
+physician-on-call               1
+atc                             3
+\"visualize                     1
+fh 's                           1
+10%an                           1
+self-critique                   1
+Labor Market Information        1
+UK National Audit               1
+NHS Acute Hospitals             1
+VCHA                            1
+relationshipsoriginal           1

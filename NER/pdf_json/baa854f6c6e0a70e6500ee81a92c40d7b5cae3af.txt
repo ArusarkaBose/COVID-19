@@ -1,0 +1,77 @@
+Named Entity                                                          Count
+------------------------------------------------------------------  -------
+symposium 3                                                               1
+Tetrahymena                                                               3
+guanosine                                                                 2
+Tetrahymena group i                                                       1
+a/~-globin                                                                1
+ribosomal                                                                 1
+tobacco mosaic virus                                                      1
+tmv                                                                       2
+citrus exocortis                                                          1
+cat                                                                       1
+Fresenius J Anal Chem ( 1990 ) 337:13 -\u00a9 Springer-Verlag 1990        1
+Genzentrum der Universit/it Mfinchen                                      1
+dna                                                                       3
+e. coli                                                                  15
+Pliickthun                                                               12
+f                                                                         2
+b                                                                         1
+co-secrete                                                                1
+fv                                                                        4
+fv fragment                                                               2
+phosphorylcholine                                                         1
+fab                                                                       3
+vn                                                                        2
+fab fragment                                                              1
+antigen binding fragment                                                  1
+cancer                                                                    1
+intermolecular disulfide-bond                                             1
+antigen                                                                   1
+Nnding                                                                    1
+carbonate ester                                                           1
+leukocyte elastase                                                        1
+hle                                                                       3
+serum                                                                     2
+leukocyte                                                                 1
+organ                                                                     1
+intravascular                                                             1
+emphysema                                                                 1
+elastase                                                                  7
+alpha-l-antitrypsin                                                       1
+oxygen                                                                    3
+lysosomal oxidase                                                         1
+mof                                                                       1
+serine protease                                                           1
+human alpha-lantitrypsin                                                  1
+eglin c                                                                   1
+human serum inhibitor-i                                                   1
+aprotinin                                                                 1
+human pancreatic secretory trypsin inhibitor                              1
+hpsti                                                                     5
+tissue                                                                    1
+methionine                                                                1
+human                                                                     1
+kidney                                                                    1
+ovomucoid                                                                 2
+porcine psti                                                              2
+human psti                                                                2
+capd                                                                      1
+human leukocyte elastase                                                  1
+porcine pancreatic elastase                                               1
+chymotrypsin complex                                                      1
+human elastase                                                            1
+pstivariant/protease                                                      1
+pmampf                                                                    1
+trypsin                                                                   1
+water                                                                     1
+rabbit lung                                                               1
+human leukocyte                                                           1
+human seminal inhibitor-ii acrosin inhibitor                              1
+human serine protease                                                     1
+GBF -gesellschaft ffir                                                    1
+Weg 1                                                                     1
+d-3300                                                                    1
+Wayne Gerlach CSIRO                                                       1
+Canberra 2601                                                             1
+tobacco                                                                   1

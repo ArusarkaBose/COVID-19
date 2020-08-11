@@ -1,0 +1,143 @@
+Named Entity                                                               Count
+-----------------------------------------------------------------------  -------
+addrline                                                                       3
+postcode                                                                       5
+NSW                                                                            5
+Camperdown                                                                     1
+Virbac                                                                         3
+Milperra                                                                       1
+canine parvoviral                                                              3
+canine parvovirus                                                             25
+human socioeconomic factor                                                     1
+dog                                                                           37
+ref_spans                                                                     39
+body_text                                                                      1
+cpv                                                                            6
+canine                                                                         5
+Leisewitz , 2010                                                               7
+Leisewitz                                                                      7
+Rezabek , 2008 )                                                               1
+Prittie                                                                        2
+Rezabek , 2008                                                                 1
+Prittie , 2004 )                                                               1
+cpv-2a                                                                         2
+cpv-2b                                                                         2
+cpv-2c                                                                         2
+parvovirus                                                                    17
+co-pathogen                                                                    1
+canine coronavirus                                                             1
+intestinal parasite                                                            2
+mucosal cell                                                                   1
+[ {                                                                            1
+Spickler                                                                       3
+Godsall                                                                        9
+Mbah                                                                           3
+Gilligan , 2011                                                                2
+rabie                                                                          1
+cat                                                                            5
+WatchDog                                                                      14
+patient                                                                        2
+761                                                                            2
+human                                                                          3
+puppy                                                                          1
+litter                                                                         3
+dog factor                                                                     2
+watchdog                                                                       1
+breed                                                                          1
+gundog                                                                         1
+Koolie                                                                         1
+pit-bull                                                                       1
+years-months-weeks                                                             1
+v 2                                                                            6
+figref0                                                                        3
+figref1                                                                        3
+Victoria ( 3                                                                   1
+figref2                                                                        1
+tabref0                                                                        2
+dog breed                                                                      2
+tabref1                                                                        3
+dog factor " }                                                                 2
+11,587                                                                         1
+canine patient                                                                 1
+people                                                                         1
+Balassiano                                                                     3
+Rubel                                                                          3
+pet                                                                            1
+Twark                                                                          5
+herd                                                                           2
+wsava                                                                          1
+UK                                                                             1
+intestinal                                                                     1
+Nsukka area                                                                    1
+B                                                                              3
+t                                                                              3
+o " ]                                                                          1
+b                                                                              3
+Chime                                                                          1
+other_ids                                                                     29
+gastrointestinal                                                               1
+c c                                                                            1
+b2                                                                             1
+b3                                                                             1
+Yam                                                                            1
+b4                                                                             1
+canine parvovirus type 2c                                                      1
+v                                                                              3
+Martella                                                                       2
+Lavazza                                                                        1
+b5                                                                             1
+F                                                                              1
+cirone                                                                         1
+Lorusso                                                                        1
+Colaianni                                                                      1
+b6                                                                             1
+University-Banfield                                                            1
+Caldanaro                                                                      2
+Aucoin                                                                         1
+h                                                                              2
+Vector-Borne                                                                   1
+b7                                                                             1
+b8                                                                             1
+coronavirus                                                                    1
+b9                                                                             1
+parvovirus enteritis                                                           1
+Head                                                                           1
+Kalli                                                                          1
+Mylonakis                                                                      1
+Rallis                                                                         1
+b11                                                                            1
+Rezabek                                                                        1
+b12                                                                            1
+Kyaw-Tanner                                                                    1
+Bensink                                                                        1
+b14                                                                            1
+b15                                                                            1
+canine rabie vaccine                                                           1
+f                                                                              1
+Guptill                                                                        2
+vaccine                                                                        1
+b16                                                                            1
+b17                                                                            1
+ABo                                                                            1
+b18                                                                            1
+canine parvoviral enteritis                                                    1
+b19                                                                            1
+b20                                                                            1
+b21                                                                            1
+c                                                                              1
+b22                                                                            1
+Sabine                                                                         1
+b23                                                                            1
+Feline Medicine                                                                1
+b24                                                                            1
+serum parvovirus                                                               1
+distemper virus antibody titre                                                 1
+b26                                                                            1
+b28                                                                            1
+ref_entries                                                                    1
+latex                                                                          5
+FIGREF2                                                                        1
+html><body><table><tr><td                                                      1
+total\n</td></tr><tr><td                                                       1
+Gendera\n</td><td>\u00a0</td><td>\u00a0</td><td>\u00a0</td></tr><tr><td        1
+statusb\n</td><td>\u00a0</td><td>\u00a0</td><td>\u00a0</td></tr><tr><td        1

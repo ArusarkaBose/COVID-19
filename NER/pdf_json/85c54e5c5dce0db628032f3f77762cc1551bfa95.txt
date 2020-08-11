@@ -1,0 +1,245 @@
+Named Entity                                                           Count
+-------------------------------------------------------------------  -------
+rubella virus                                                             10
+wen-pin                                                                    1
+addrline                                                                   2
+postcode                                                                   2
+GA                                                                         2
+[ { "                                                                      1
+rub                                                                       56
+ns-orf                                                                    11
+sp-orf                                                                    16
+virus-specific                                                             2
+c                                                                          3
+replicon                                                                  16
+virus particle                                                             8
+ref_spans                                                                 21
+body_text                                                                  1
+human                                                                      1
+rubella                                                                    1
+german measle                                                              1
+e2                                                                         2
+strand                                                                     1
+cell                                                                      30
+nucleotide                                                                 1
+sg                                                                         8
+caes                                                                       1
+Izeta                                                                      3
+Khromykh                                                                   3
+Derdeyn                                                                    8
+rub c                                                                      1
+Bohn                                                                       2
+rub replicon                                                               1
+rubrep/gfp                                                                15
+gfp                                                                       16
+genome/ sg \u223c                                                          2
+rubrep/c-gfp                                                              11
+c-gfp fusion protein                                                       1
+sg rna                                                                     1
+vero cell                                                                  8
+p0                                                                         6
+1 - 2                                                                      1
+p1 - 2                                                                     1
+p4 - 6                                                                     2
+p5 - 6                                                                     1
+p5                                                                         4
+clone                                                                     10
+figref0                                                                    3
+tabref0                                                                    4
+\u223c1000 nt                                                              1
+\u223c 1200                                                                1
+di-rna                                                                     3
+rub di-1                                                                   1
+flag                                                                       8
+breakpoint                                                                 1
+dis                                                                        2
+di-1.1f                                                                    6
+di-1.2f                                                                    3
+di-1.2 g                                                                   8
+b                                                                          3
+e1                                                                         4
+di-1.1 g                                                                   4
+di-1.2gz                                                                   6
+wtrub + rubrep/gfp                                                         2
+wtrub + rubrep/c-gfp                                                       1
+wtrub                                                                      1
+rg                                                                         1
+rsg                                                                        1
+extract                                                                    1
+pgem-gfp                                                                   5
+b ) cell                                                                   1
+cell monolayer                                                             1
+rub-and                                                                    1
+3\u2032cae ; extract                                                       1
+agarose                                                                    1
+ethidium bromide                                                           1
+c-gfp-e1                                                                   1
+wt rub                                                                     1
+cellular                                                                   1
+rub sp-orf                                                                 1
+transmembrane                                                              2
+tm                                                                         1
+cytoplasmic                                                                2
+glycoprotein                                                               1
+p32                                                                        1
+s46                                                                        1
+Robo 502                                                                   1
+di-1                                                                       5
+\"f\                                                                       1
+\"g\                                                                       1
+di-1.2                                                                     4
+di-1.1f-1411 *                                                             1
+DI-1.2F                                                                    2
+rub-infected cell                                                          1
+intracellular                                                              5
+cell lysate                                                                2
+sindbis virus                                                              3
+Semliki Forest virus                                                       3
+alphavirus                                                                 2
+togavirus                                                                  1
+\u223c25                                                                   1
+Lehtovaara                                                                 3
+picornavirus                                                               1
+flavivirus                                                                 1
+hagino-yamagishi                                                           1
+replicase                                                                  1
+replicase component                                                        1
+venezuelan equine encephalitis virus                                       1
+vee                                                                        2
+nsp1                                                                       1
+nsp2                                                                       2
+nsp3                                                                       1
+cis                                                                        2
+Volkova                                                                    3
+Hagino-Yamagishi                                                           2
+ns1                                                                        2
+coronaviruse                                                               1
+arteriviruse                                                               1
+orf1                                                                       3
+makino                                                                     4
+di-gz lane                                                                 1
+serine 46                                                                  1
+mitochondrial p32                                                          1
+e1 transmembrane                                                           1
+membrane                                                                   3
+c-gfp                                                                      1
+line                                                                       1
+bhk cell                                                                   1
+C.                                                                         1
+clone robo502                                                              1
+rubrep/c(aua                                                               2
+gtc)-gfp                                                                   2
+f-therien                                                                  1
+rubrep/ gfp                                                                2
+tri-reagent                                                                1
+ecori                                                                      5
+spei                                                                       4
+t 20                                                                       2
+xbai                                                                       4
+ecori-restricted pgem-3z                                                   1
+progema                                                                    1
+rub + rubrep/ gfp                                                          1
+pgem-6895 - 9456                                                           4
+oilgo 879                                                                  1
+bglii-ecori fragment                                                       3
+bglii                                                                      2
+di-1.1f-1411                                                               1
+aug1                                                                       1
+aug2                                                                       1
+bglii-noti fragment                                                        2
+wtrub + rubrep/gfp p5 wtrub                                                1
+clone 12                                                                   1
+noti-ecori fragment                                                        1
+xbai-nsii                                                                  2
+5\u2032-gctggggccaccgaccaactctagaatgcatccct-gcgggggcgagagcg-3\u2032        1
+nsii                                                                       2
+xbai-nsii fragment                                                         1
+lipofectamine 2000                                                         1
+invitrogen                                                                 1
+virus-                                                                     1
+replicon-                                                                  1
+northernmax-gly                                                            1
+p-labeled                                                                  1
+potassium tartrate                                                         1
+c monoclonal antibody                                                      1
+clonetech                                                                  1
+Wang                                                                       1
+t                                                                         11
+J. Virol                                                                  12
+other_ids                                                                 34
+b2                                                                         1
+poliovirus subgenomic replicon                                             1
+J. Gen. Virol                                                              2
+b3                                                                         1
+flavivirus ns1                                                             1
+B                                                                          4
+Virus Res                                                                  1
+b4                                                                         1
+rubella virus particle                                                     1
+b5                                                                         1
+encephalitis virus                                                         1
+nonstructural                                                              1
+host cell                                                                  1
+Lin                                                                        2
+Lai                                                                        4
+b6                                                                         1
+murine coronavirus di-a                                                    1
+b7                                                                         1
+b8                                                                         1
+Adv .                                                                      1
+b9                                                                         1
+poliovirus                                                                 1
+b11                                                                        1
+Smerdou                                                                    1
+Penzes                                                                     1
+Enjuanes                                                                   1
+b12                                                                        1
+flavivirus Kunjin                                                          1
+Urosevic                                                                   1
+b14                                                                        1
+h                                                                          3
+J. Mol                                                                     1
+b15                                                                        1
+Cell                                                                       1
+b16                                                                        1
+acetyltransferase                                                          1
+avian cell                                                                 1
+b17                                                                        1
+Rubella virus                                                              3
+b18                                                                        1
+coronavirus                                                                2
+b19                                                                        1
+mouse hepatitis virus                                                      1
+hemagglutinin-esterase                                                     1
+b20                                                                        1
+murine coronavirus                                                         1
+Makino                                                                     1
+b21                                                                        1
+arterivirus                                                                1
+Rozier                                                                     1
+Spaan                                                                      1
+b22                                                                        1
+llc-mk2 cell                                                               1
+b23                                                                        1
+Ho-Terry                                                                   1
+b24                                                                        1
+nonstructural protein                                                      1
+[ {                                                                        1
+b26                                                                        1
+rubella virus p150 nonstructural                                           1
+rubella virus capsid                                                       2
+b28                                                                        1
+b29                                                                        1
+venezuelan equine encephalitis virus-specific                              1
+nsp1 - 3                                                                   1
+b30                                                                        1
+b31                                                                        1
+b32                                                                        1
+b33                                                                        1
+genotype ii rubella virus strain                                           1
+K                                                                          1
+ref_entries                                                                1
+robo502                                                                    1
+latex                                                                      2
+rubrep/c-gfp p5                                                            1
+NIH                                                                        1

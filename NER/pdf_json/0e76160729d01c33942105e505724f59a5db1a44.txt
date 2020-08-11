@@ -1,0 +1,292 @@
+Named Entity                                                     Count
+-------------------------------------------------------------  -------
+coronavirus-like                                                     1
+coronavirus                                                         31
+mouse                                                              102
+scov                                                                80
+coronavirus-like particle                                            3
+vlp                                                                120
+scov s                                                              20
+mouse hepatitis virus                                                3
+cho cell                                                             7
+balb/c mouse                                                         8
+alum                                                                61
+lung                                                                40
+cellular                                                             8
+SARS coronavirus                                                     3
+human                                                                5
+coronaviruse                                                         6
+bat                                                                  1
+civet                                                                1
+nucleocapsid                                                         4
+type i transmembrane glycoprotein                                    1
+membrane ( m ) protein                                               1
+coronavirus s                                                        2
+cell                                                                15
+membrane                                                             3
+host cell membrane .                                                 1
+coronavirus tissue                                                   1
+scov vaccine                                                         8
+coronavirus particle through                                         1
+m                                                                    6
+virus particle                                                       1
+vaccinia virus                                                       3
+alphavirus                                                           1
+scov vlp                                                            10
+293 t cell                                                          10
+insect cell                                                          1
+mammalian cell                                                       4
+murine coronavirus                                                   2
+vero e6 cell                                                        14
+Dulbecco 's                                                          1
+dmem                                                                 1
+penicillin                                                           1
+streptomycin                                                         1
+g/ml                                                                 1
+sodium bicarbonate                                                   1
+fbs                                                                  2
+GA                                                                   1
+stock                                                                1
+pcaggs-mhv-a59/s                                                     2
+pcaggs-mhv-a59/m                                                     3
+pcaggs-a59/n                                                         1
+mhv                                                                  9
+chicken beta-actin                                                   1
+pcaggs-s                                                             1
+pcaggs-e                                                             2
+scov e                                                               1
+pcaggs-m                                                             2
+scov m                                                               3
+scov n                                                               4
+mhv vlp                                                             15
+subconfluent 293 t cell culture                                      1
+tissue                                                               5
+transit-293                                                          1
+sucrose                                                              9
+nte buffer                                                           2
+\u221280 \u2022 c                                                    1
+mhv s ,                                                              1
+rabbit                                                               1
+jhm                                                                  2
+rabbit polyclonal anti-scov s protein antibody                       1
+cat                                                                 10
+no. ap6000a                                                          1
+rabbit anti-scov s protein antibody                                  1
+imgenex                                                              2
+rabbit polyclonal anti-scov n protein antibody                       1
+scov pupm                                                            1
+no. ap6008a                                                          1
+scov pupm antibody                                                   1
+anti-scov m antibody                                                 1
+prosci                                                               1
+cat no. 3529P                                                        1
+bio-safe coomassie stain ( bio-rad )                                 1
+phosphotungstic acid                                                 1
+electron                                                             1
+six-to 8-week-old                                                    1
+MA                                                                   1
+virus vaccine                                                        1
+phosphate buffered saline                                            1
+pierce                                                               1
+norm-ject                                                            1
+leave                                                                5
+body                                                                 1
+naris                                                                1
+isoflurane                                                           2
+IL                                                                   1
+retro-orbital sinus                                                  1
+serum                                                               11
+fbs-dmem                                                             1
+l.                                                                   1
+serum sample                                                         1
+virusinduced cpe                                                     1
+lung lobe                                                            1
+right middle lobe                                                    1
+right low lobe                                                       1
+accessory lobe                                                       1
+leave lobe                                                           1
+lobe                                                                 1
+TissueLyser                                                          1
+homogenate                                                           1
+tcid                                                                 2
+lung homogenate                                                      1
+formalin-fixed                                                       1
+paraffin-embedded tissue section                                     1
+ihc                                                                  2
+scov antigen                                                         4
+virus-specific                                                       3
+pcaggsbased                                                          1
+2 \u00d7 10 7 293 t cell                                             1
+colloidal coomassie blue                                             2
+pcaggsbased plasmid                                                  1
+mhv S ,                                                              1
+coronavirus s protein                                                2
+mhv m                                                                5
+e                                                                    5
+mhv e                                                                1
+n and m                                                              1
+mhv n protein                                                        2
+mhv n                                                                1
+vero                                                                 1
+human vaccine                                                        1
+dna                                                                  5
+vero cell                                                            1
+TransIT-293                                                          1
+sixto 8-week-old                                                     1
+293 t                                                                1
+i.n                                                                  5
+scov.                                                                4
+solid                                                                1
+lung virus                                                           3
+sera                                                                 2
+virus-specific neutralize antibody                                   2
+vero e6 cell culture                                                 1
+lung scov                                                            1
+influenza a virus vaccine                                            1
+mhv s                                                                1
+\u00b1                                                               1
+left                                                                 4
+pulmonary virus                                                      1
+\u00b10.4                                                            1
+\u00b10.6                                                            1
+\u00b10.5                                                            1
+mouse 2                                                              3
+i.m                                                                  3
+virus-specific serum                                                 3
+blood sample                                                         2
+virus i.n                                                            1
+pulmonary scov                                                       1
+b                                                                    1
+bronchial epithelium                                                 1
+cellular cytoplasmic                                                 1
+necrotic epithelial cell                                             1
+bronchiole                                                           4
+mononuclear cell                                                     5
+peribronchiolar                                                      2
+perivascular region                                                  2
+bronchiolar interstitial tissue                                      3
+alveolar wall                                                        4
+bronchiolar epithelial cell                                          6
+alveolar lining                                                      1
+cytopathology                                                        1
+blebbing                                                             1
+desquamated cell                                                     1
+airway lumen                                                         2
+cellular infiltrate                                                  1
+neutrophil                                                           4
+eosinophil                                                           4
+blood vessel                                                         2
+lung tissue                                                          1
+infiltrate eosinophil                                                2
+infiltrate cell                                                      1
+lung cytopathology                                                   2
+scov particle                                                        1
+baculovirus-derived scov vlp                                         1
+cytoplasmic tail                                                     1
+mhv-derived n , m                                                    1
+\u223c27-residue-long                                                1
+charge-rich                                                          5
+amino acid                                                           3
+alanine                                                              1
+residues-toalanine                                                   1
+transmembrane                                                        2
+feline infectious peritonitis virus                                  3
+fipv                                                                 4
+fipv s                                                               2
+MHV m                                                                1
+venezuelan equine encephalitis virus replicon particle encode        1
+scov n protein-induced immunopathology                               1
+mhv n , m and                                                        1
+human scov isolate                                                   1
+scov urbani                                                          1
+urbani strain                                                        1
+human gd03                                                           1
+focal peribronchiolar mononuclear                                    1
+infiltrate                                                           1
+scov monoclonal antibody                                             1
+vlp-immunized mouse                                                  1
+sars-cov                                                             2
+peribronchiolar inflammatory infiltrate                              1
+peribronchiolar interstitium                                         1
+lesion                                                               1
+mf59                                                                 1
+pulmonary                                                            1
+cross-host                                                           1
+palm civet                                                           1
+sars-coronavirus                                                     1
+human ace2                                                           1
+glycoprotein                                                         1
+murine coronavirus mhv-a59                                           1
+murine coronavirus-induced hepatitis                                 1
+A59                                                                  1
+gastroenteritis coronavirus                                          1
+mhv4/mhv-a59 recombinant virus                                       1
+neurovirulence                                                       1
+b-cell                                                               1
+patient                                                              1
+amino acid 1055                                                      1
+human monoclonal antibody                                            4
+human mab                                                            1
+murine coronavirus virion                                            1
+coronavirus membrane protein domain                                  1
+coronavirus m                                                        1
+coronavirus envelope glycoprotein                                    1
+nucleocapsidindependent                                              1
+coronavirus e                                                        1
+membrane vesicle                                                     1
+e proteinexpressing cell                                             1
+coronavirus pseudoparticle                                           2
+e protein                                                            1
+alpha interferon                                                     1
+leukocyte                                                            1
+coronavirus 7a accessory                                             1
+SARS coronavirus-like particle                                       1
+immune                                                               1
+virus-like particle                                                  2
+host cell                                                            1
+human angiotensin-converting enzyme 2 virus receptor                 1
+hiv-1                                                                1
+gp120                                                                1
+golden hamster                                                       1
+woodchuck                                                            1
+whv                                                                  1
+chimerivax                                                           1
+sa14 - 14 - 2 ) virus                                                1
+capsid                                                               1
+nonstructural                                                        1
+non-human primate                                                    1
+recombinant vaccinia virus                                           1
+prem                                                                 1
+e glycoprotein                                                       1
+vsv-based                                                            1
+vaccinia virus Ankara                                                2
+coronavirus vaccine                                                  1
+sars-cov vaccine                                                     2
+escherichia coli                                                     1
+ferret                                                               3
+lactobacillus casei                                                  1
+feline coronavirus                                                   1
+coronavirus particle                                                 1
+syrian hamster                                                       1
+vaccine                                                              1
+feline                                                               2
+feline macrophage                                                    1
+coronavirus isolate                                                  1
+golden syrian hamster                                                1
+matrix                                                               1
+veroe6 cell                                                          1
+fluid                                                                1
+h                                                                    1
+f and i                                                              1
+luminal cytoplasm                                                    2
+necrotic epithelium                                                  1
+peribronchiolar mononuclear                                          2
+\u00d7200                                                            3
+\u00d7400                                                            3
+airway                                                               1
+eosinophil infiltrate                                                1
+cytoplasmic                                                          1
+Electron                                                             1
+grant ai29984                                                        1
+ai72493 .                                                            1
+Technology                                                           1

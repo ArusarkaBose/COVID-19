@@ -1,0 +1,30 @@
+Named Entity                           Count
+-----------------------------------  -------
+Coronavirus                                3
+covid-19                                   5
+coronavirus                               17
+COVID-19                                   5
+UT                                         1
+cloudresearch ( 4 ) online platform        1
+participant                               10
+medrxiv                                   10
+medrxiv preprint                           6
+NIH                                        3
+origin\                                    1
+cloudresearch                              1
+people                                     1
+\"close                                    2
+person                                     1
+Health (                                   1
+cronbach 's \u03b1                         1
+disagree/disagree/neutral                  1
+CoronavirusOutbreak Questionnaire          1
+states.2                                   1
+trust1                                     1
+perpetuity.i                               2
+medrxiv preprint organization              1
+Malik ,                                    1
+Aguolu                                     1
+O. G.                                      1
+Willebrand                                 1
+S. B. ( 2020 )                             1

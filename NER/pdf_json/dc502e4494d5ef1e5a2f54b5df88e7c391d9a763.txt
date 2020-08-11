@@ -1,0 +1,306 @@
+Named Entity                                                         Count
+-----------------------------------------------------------------  -------
+pteropine orthoreovirus                                                  9
+prv                                                                     71
+balb/c mouse                                                            34
+Hideki                                                                   1
+Tomoki                                                                   1
+Kurosu                                                                   1
+Shumpei                                                                  1
+Fukushi                                                                  4
+Orthoreovirus                                                            1
+Southeast Asia                                                           7
+human                                                                   13
+bat                                                                      1
+ref_spans                                                               41
+human-borne prv strain                                                   1
+patient                                                                 15
+human-borne prv                                                          2
+mouse                                                                  115
+lethal prv                                                               4
+antiserum                                                               11
+lethal                                                                  10
+lethal respiratory                                                       1
+rti                                                                     12
+fruit bat                                                                7
+body_text                                                                1
+heart blood                                                              1
+fox                                                                      1
+pteropus                                                                 1
+throat                                                                   1
+abdominal                                                                1
+watery                                                                   1
+human prv                                                                1
+Pteropus                                                                 1
+P. hypomelanus                                                           1
+P. vampyrus                                                              1
+Rousettus leschenaultia                                                  1
+Eonycteris spelaea                                                       1
+PR China                                                                 1
+Philippines from                                                         1
+[ 1 , 8                                                                  1
+indonesia/2010                                                           1
+salivary swab                                                            1
+p. vampyrus                                                              1
+E. spelaea                                                               1
+Macroglossus minimus                                                     1
+Philippines                                                              1
+humanborne                                                               1
+c3h mouse                                                                1
+prv strain miyazaki-bali/2007                                            1
+prv-mb                                                                  48
+samal-24                                                                 1
+prv-samal-24                                                            24
+e. spelaea                                                               1
+nucleotide                                                               3
+prv strain                                                               1
+genbank ( table 1                                                        1
+[ {                                                                      2
+[ 7                                                                      2
+cell                                                                    10
+human embryonic kidney-derived 293ft cell                                1
+dmem                                                                     2
+LLC                                                                      1
+fetal bovine serum                                                       1
+fbs                                                                      2
+penicillin                                                               1
+streptomycin                                                             1
+pen-strep                                                                2
+cellular                                                                 5
+sucrose                                                                  1
+tube                                                                     1
+dmem-2fbs                                                                4
+vero cell                                                                1
+atcc                                                                     1
+ccl-81 ) monolayer                                                       1
+37\u02dac                                                                1
+cell monolayer                                                           1
+phosphate buffered saline                                                1
+nine-week-old                                                            1
+ketamine                                                                 1
+xylazine                                                                 1
+sodium chloride                                                          1
+prv-samal-24 strain                                                      1
+body                                                                    15
+Reed                                                                     1
+prv genome                                                               1
+organ                                                                   24
+blood                                                                   16
+dpi                                                                     12
+brain                                                                    4
+nasal                                                                    1
+trachea                                                                  4
+lung                                                                    38
+liver                                                                    4
+kidney                                                                   4
+spleen                                                                   3
+intestine                                                                4
+blood sample                                                             4
+cardiac puncture                                                         2
+tissue                                                                   8
+nasal cavity                                                             2
+heart                                                                    2
+rnalater                                                                 1
+ocp                                                                     10
+5'-tgggagtgtgcagagcatag-3                                                1
+Eurofins                                                                 2
+fam/5'-gtaggtatg ccactcgtggaatcc-3'/tamra                                1
+atac                                                                     1
+fam/5'-gaccagaccagatacgtggaatcc -3'/tamra ( Sigma-Aldrich Co. LLC        1
+40\u02dac                                                                1
+dna                                                                      1
+vero cell monolayer                                                      1
+prv-mb ( prv-mb-1.0\u00d710 3                                            1
+isoflurane                                                               1
+prv antigen                                                              4
+section                                                                  4
+rabbit                                                                   1
+antigen                                                                  1
+OCP                                                                      5
+ocp antigen                                                              1
+mouse lung                                                               2
+lung tissue                                                              1
+coronavirus                                                              2
+mock-mouse-lung                                                          2
+rabbit serum                                                             1
+nrs                                                                      6
+Dako                                                                     1
+ocp antibody                                                             1
+Nichirei-Histofine                                                       1
+Mouse MAX po                                                             1
+peroxidase                                                               1
+3'-diaminobenzidine                                                      1
+serum                                                                   13
+caudal vein                                                              1
+prv-mb 3                                                                 2
+mouse serum                                                              2
+prv lethal                                                               2
+\u03bcl                                                                  2
+NIID                                                                     3
+prv-mb-1.0\u00d710 6                                                     2
+anorexia                                                                 1
+prv-mb-1.0\u00d710 4                                                     1
+prv-mb-1.0\u00d710 3                                                     7
+figref0                                                                  2
+leave panel                                                              1
+lymphocyte                                                               1
+bronchiole                                                               6
+alveolus                                                                11
+leave                                                                    2
+neutrophil                                                               2
+type ii pneumocyte                                                       2
+alveolar wall                                                            1
+prv antigen-positive                                                     1
+figref2                                                                  3
+prv-mb-1.0\u00d710                                                       6
+figref3                                                                  2
+bronchial epithelium                                                     4
+alveolar duct                                                            1
+alveolar area                                                            2
+nuclear                                                                  1
+prv-mb antigen                                                           3
+pulmonary                                                                1
+upper                                                                    5
+figref4                                                                  5
+figref5                                                                  2
+figref6                                                                  3
+figref7                                                                  3
+lethal prv-mb                                                            2
+nine-week-old balb/c mouse                                               1
+\u00d7 10 3                                                              1
+figref8                                                                  5
+prv-samal-24 - 1.0\u00d710 6                                             3
+inflammatory lesion                                                      1
+h&e                                                                      7
+prv-mb ( s2 )                                                            1
+bronchiolar epithelium                                                   2
+ciliated                                                                 1
+nonciliated cell                                                         1
+clara cell                                                               2
+goblet cell                                                              2
+secretory cell                                                           1
+prv antigen-positive cell                                                2
+pneumocyte-like cell                                                     1
+type i pneumocyte                                                        3
+orthoreovirus                                                            5
+rat                                                                      1
+bronchiolar epithelial cell                                              3
+pneumocyte                                                               2
+high-titer prv                                                           1
+RTI                                                                      1
+amino acid                                                               1
+p10                                                                      1
+prv-samal-24 - 1.0\u00d710                                               3
+p17                                                                      1
+m2                                                                       1
+l1                                                                       1
+rna polymerase                                                           1
+prv infection                                                            1
+sars-mouse-lung (                                                        1
+ihc                                                                      2
+sars-mouse-lung                                                          1
+mock-mouse-tissue                                                        1
+\u03bcm                                                                 11
+ocp antibody ( right panel                                               1
+prv-samal-24 antigen                                                     1
+lower-right panel                                                        1
+prv-samal-24 antigen-positive pneumocyte                                 1
+reovirus                                                                 5
+Archiv fur                                                               1
+other_ids                                                               26
+Chua                                                                     5
+Crameri                                                                  3
+b2                                                                       1
+Voon                                                                     4
+h                                                                        9
+PloS                                                                     4
+b3                                                                       1
+F                                                                        1
+Chan                                                                     1
+b4                                                                       1
+rasid                                                                    1
+K                                                                        5
+Wang                                                                     1
+b6                                                                       1
+Lai                                                                      1
+b7                                                                       1
+acute respiratory tract                                                  1
+Iwakiri                                                                  1
+t                                                                       10
+b9                                                                       1
+b                                                                        6
+Ngoc                                                                     1
+Quoc                                                                     1
+10.1002/jmv.24274                                                        1
+PMID                                                                     2
+b11                                                                      1
+acute upper respiratory tract                                            1
+b12                                                                      1
+Pulau virus                                                              1
+B                                                                        3
+Meng                                                                     1
+b14                                                                      1
+10.1186/s12866 - 014 - 0293 - 4                                          1
+pmcid                                                                    3
+pmc4264558                                                               1
+b15                                                                      1
+Lorusso                                                                  1
+Teodori                                                                  1
+Leone                                                                    1
+Marcacci                                                                 1
+Mangone                                                                  1
+b16                                                                      1
+b17                                                                      1
+acute respiratory tract infection                                        1
+b18                                                                      1
+pmc4642344                                                               1
+b19                                                                      1
+10.5501/wjv.v5.i2.85                                                     1
+b20                                                                      1
+saffold virus type 3 isolate                                             1
+b21                                                                      1
+Fukuma                                                                   1
+b22                                                                      1
+pulmonary edema                                                          1
+alveolar                                                                 1
+Harashima                                                                1
+b23                                                                      1
+nonciliated tracheal epithelial cell                                     1
+c                                                                        1
+Nettesheim                                                               1
+Lung                                                                     1
+b24                                                                      1
+Knowns                                                                   1
+Herzog                                                                   1
+Schlossmacher                                                            1
+10.1186/1743 - 422x-10 - 67                                              1
+b26                                                                      1
+rat lung                                                                 1
+Morin                                                                    1
+tubercle bacillus                                                        1
+Kaufmann                                                                 1
+U                                                                        1
+Microbiology "                                                           1
+ref_entries                                                              1
+latex                                                                   10
+figref1                                                                  1
+FIGREF2                                                                  1
+necrotic lesion                                                          1
+prv-mb-1.0\u00d710 3 mouse                                               1
+5th dpi                                                                  2
+lesion                                                                   2
+left panel                                                               1
+left                                                                     3
+H&E                                                                      1
+OCP antibody ( right panel                                               1
+necrotic cell                                                            1
+intraperitoneal                                                          1
+gray box                                                                 1
+\u03bcl.                                                                 1
+prv antibody                                                             1
+figref9                                                                  1
+Aiko Fukuma                                                              1
+Ayako Harashima                                                          1
+Yuko                                                                     1
+Pathology                                                                1
+limit.of                                                                 1

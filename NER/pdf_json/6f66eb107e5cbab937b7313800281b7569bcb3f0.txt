@@ -1,0 +1,418 @@
+Named Entity                              Count
+--------------------------------------  -------
+Ebola virus                                  22
+Carol Yu Centre                               2
+Ebolavirus                                    5
+human                                        30
+body fluid                                    5
+ebolavirus                                   55
+people                                        5
+Liberia                                       8
+Sierra Leone                                 11
+Nigeria , Senegal                             1
+Mali                                          2
+Conakry                                       1
+free-town                                     1
+Monrovia                                      1
+Nigeria [ 5 , 6 ]                             1
+Marburgvirus                                  1
+Cuevavirus                                    1
+filoviridae                                   2
+Mononegavirales                               1
+Sudan Gabon                                   1
+Sudan ebolavirus                              2
+41e69                                         1
+Cote d'Ivoire                                 1
+Bundibugyo ebolavirus                         1
+Reston ebolavirus                             5
+pig                                           3
+monkey                                        2
+person                                        3
+blood sample                                  3
+Gabon                                         4
+sample                                        1
+ebolavirus-specific antibody                  4
+EVD                                          11
+Gu eck edou                                   2
+patient                                      46
+\"traditional healer\                         1
+evd                                          10
+guinea [ 6                                    1
+Nigeria                                       2
+Zaire ebolavirus                              1
+DRC                                           6
+ebolavirus strain                             1
+DRC EVD                                       1
+zaire ebolavirus                              4
+fruit bat                                     6
+mine                                          1
+carcass                                       1
+caseecontrol                                  1
+cadaver                                       1
+skin                                          6
+mucous membrane                               4
+blood                                        12
+body                                          6
+secretion                                     1
+urine                                         1
+saliva                                        1
+seminal fluid                                 2
+breast milk                                   1
+stool                                         1
+vagina                                        1
+rectum                                        1
+conjunctiva                                   1
+vaginal                                       1
+rectal                                        1
+conjunctival                                  1
+cynomolgus macaque                            4
+rhesus macaque                                9
+macaque                                       2
+bloody intravenous                            1
+bat                                          10
+primate                                       1
+gorilla                                       2
+rat                                           1
+mouse                                         8
+shrew                                         1
+cephalophus                                   1
+serum sample                                  1
+dog                                           3
+ebolavirus nucleic acid                       1
+duiker population                             1
+human virus                                   1
+coronavirus                                   8
+sars-cov                                      1
+hendra virus                                  1
+nipah virus                                   1
+menangle virus                                1
+rabies virus                                  1
+Lyssaviruses [ 36 , 37 ] .                    1
+hypsignathus monstrosus                       1
+epomop franqueti                              1
+Bangladesh                                    1
+Philippines .                                 1
+Rousettus leschenaultia                       1
+Hipposideros Pomona                           1
+reston ebolavirus                             1
+filamentous                                   1
+gp                                            2
+glycoprotein                                  1
+gp1                                           6
+host cell receptor                            1
+gp2                                           3
+membrane                                      3
+sgp                                          11
+ssgp                                          1
+vp24                                          6
+vp40                                          5
+NP                                            3
+vp35                                          6
+vp30                                          3
+nucleocapsid                                  2
+GP1                                           1
+cell surface                                  1
+host cell surface dendritic cell              1
+nonintegrin                                   1
+sign                                          1
+dc-sign                                       1
+liver                                         5
+lymph node                                    3
+l-sign                                        1
+t cell immunoglobulin                         1
+mucin domaincontaining 1                      1
+tim1                                          1
+cell surface receptor                         1
+endosome                                      4
+endosomal membrane                            2
+cathepsin l                                   1
+cathepsin B.                                  1
+niemann-pick c1                               2
+npc1                                          2
+cytoplasm                                     1
+golgi                                         1
+plasma membrane                               1
+matrix                                        1
+endothelial cell                              5
+line                                          1
+anti-gp antibody                              3
+anti-gp immune                                1
+neutrophil                                    1
+tnf-a                                         1
+dendritic cell                                3
+ifn                                           4
+ammonium                                      1
+nanoemulsion                                  1
+monocyte                                      2
+macrophage                                    2
+lymphatic                                     1
+spleen                                        3
+lymphocyte                                    5
+organ                                         2
+fibroblast                                    1
+hepatocyte                                    2
+adrenal cortical cell                         1
+epithelial cell                               1
+hemorrhagic lesion                            1
+visceral organ                                1
+kidney                                        1
+gonad                                         1
+microvesicular                                1
+kupffer cell                                  1
+liver cell                                    1
+eosinophilic oval                             1
+filamentous cytoplasmic                       1
+ebolavirus NP                                 1
+lung                                          1
+alveolar                                      1
+adrenal gland                                 1
+adrenal                                       1
+intravascular                                 3
+tissue factor secrete from                    1
+monocytes/macrophage                          1
+ccaat/ enhancer-binding protein alpha         1
+tumor                                         1
+megakaryoblastic leukemia 1                   1
+myocardin-like protein 2                      1
+vascular lesion                               1
+postmortem tissue                             1
+blood vessel                                  1
+mip-1b                                        2
+il-6                                          2
+il-8                                          1
+il-10                                         1
+il-1b                                         1
+TNFa                                          1
+mcp-1                                         1
+mip-1a                                        1
+plasma                                        3
+peripheral blood mononuclear cell             2
+plasma nitric oxide                           1
+nitric oxide                                  2
+tissue                                        1
+vascular                                      1
+cell                                          5
+ifn-induced transmembrane protein             1
+ifitm                                         1
+type 1 ifn                                    1
+ifitm1                                        1
+ifitm3                                        1
+ebolavirus-specific igm                       1
+igg                                           5
+igm                                           2
+cytotoxic t cell                              2
+fasl                                          3
+perforin                                      1
+survivor                                      5
+IFNg                                          2
+fas                                           2
+non-human primate                             4
+lethal                                        3
+anti-gp igg                                   1
+guinea pig                                    2
+adenovirus                                    2
+vaccine                                       2
+nk-cell                                       1
+nk cell                                       1
+t cell                                        1
+cd8\u00fe t cell                              2
+flu-like                                      1
+chill                                         1
+gastrointestinal                              2
+abdominal                                     2
+throat                                        1
+maculopapular rash                            1
+5e7                                           1
+erythema                                      1
+petechiae                                     1
+ecchymosis                                    1
+venipuncture site                             1
+mucosal hemorrhage                            1
+multi-organ                                   1
+convalescent                                  2
+hepatitis                                     1
+drc                                           1
+fetal                                         1
+woman                                         2
+Blood                                         1
+aspartate aminotransferase                    1
+alanine aminotransferase                      1
+amylase                                       1
+renal                                         1
+serum                                         4
+oral fluid                                    2
+4e5                                           1
+rnaemia                                       2
+antigen-capture                               1
+ebolavirus antigen                            1
+France 's Atomic Energy Commission            1
+vero e6                                       1
+viral particle                                1
+serum igm                                     1
+serum igg                                     1
+thrombomodulin                                1
+ferritin                                      1
+scd40l                                        1
+platelet                                      1
+endothelium                                   1
+electrolyte                                   2
+oral                                          1
+intravenous                                   1
+human ifn 3                                   1
+human ifn                                     1
+peripheral lymphocyte                         1
+sendai virus                                  1
+convalescent serum                            2
+guineapig                                     1
+Kikwit                                        3
+convalescent patient                          2
+convalescent plasma                           5
+primate [                                     1
+zmapp                                         3
+human-mouse                                   1
+mab                                           1
+h13f6                                         1
+c6d8                                          1
+murine mab                                    1
+stomatitis virus-based vaccine                1
+20e30                                         1
+vp                                            1
+anticoagulant protein c2                      1
+nucleotide                                    1
+cmx-001                                       1
+cidofovir                                     2
+cytomegalovirus                               1
+clomiphene                                    1
+chloroquine                                   1
+imatinib                                      2
+lethal ebolavirus                             1
+toremifene                                    1
+favipiravir                                   3
+vero cell                                     1
+murine                                        1
+qtc                                           1
+cardiac                                       1
+Favipiravir                                   1
+France                                        1
+cellular membrane                             1
+adenovirus-based vaccine                      1
+recipient                                     1
+vaccine recipient                             2
+antiphospholipid antibody                     1
+c.                                            1
+dna                                           5
+vr-1012                                       1
+escherichia coli                              1
+creatine phosphokinase                        1
+herpes zoster                                 1
+vrc206                                        1
+zaire                                         1
+e. coli                                       1
+adenovirus type 5                             1
+human parainfluenza virus type 3              1
+virus-like particle                           1
+np                                            1
+recombinant ebolavirus                        1
+ppe                                           2
+PPE                                           3
+surface                                       1
+body bag                                      1
+sodium hypochlorite                           1
+bloody                                        1
+gum                                           1
+eye                                           1
+volunteer                                     1
+non-government organization                   1
+border                                        1
+easyto-treat                                  1
+virus particle                                1
+coronaviruse                                  1
+Zaire Ebola virus                             1
+Tandala                                       1
+cellular                                      3
+hemorrhagic fever virus                       1
+Senegal                                       1
+Congo                                         6
+infectious disease                            1
+liquid                                        1
+solid                                         1
+swine                                         1
+Ebola virus antibody                          1
+Human Ebola                                   1
+Luebo                                         1
+Reston ebolavirus antibody                    1
+Philippines                                   1
+rousettus bat coronavirus hku9                1
+alphacoronavirus                              1
+coronavirus hku10                             1
+Leschenault 's rousette                       1
+pomona leaf-nosed bat                         1
+paramyxovirus                                 1
+virus 1 ,                                     1
+Reston virus                                  1
+orangutan                                     1
+virus nonstructural glycoprotein              1
+ebola virus glycoprotein                      1
+filovirus                                     1
+host cell                                     1
+vascular cell                                 1
+transmembrane Ebola virus glycoprotein        1
+Ebola virus sgp                               1
+human neutrophil                              1
+Ebola virus glycoprotein                      1
+human dendritic cell                          1
+Ebola virus vp24                              1
+karyopherin alpha 5                           1
+nuclear                                       1
+stat1                                         1
+human peripheral blood sample                 1
+tissue factor                                 1
+monocytes/ macrophage                         1
+host                                          2
+Ebola hemorrhagic                             1
+sars coronavirus                              1
+nonhuman primate                              2
+immune                                        1
+lethal Ebola virus                            3
+natural killer cell                           1
+lethal ebola virus                            1
+surfactant protein b                          1
+cd55                                          1
+h1n1 influenza a virus                        1
+Obstetrician-Gynecologists                    1
+oral fluid specimen                           1
+UNMEER                                        1
+interferon-beta                               1
+postexposure                                  1
+lethal filovirus                              1
+rhesus monkey                                 1
+drotrecogin alfa                              1
+cmx001                                        1
+estrogen receptor                             1
+t-705                                         1
+FDA Saf                                       1
+fareston                                      1
+toremifene citrate                            1
+Avigan\u00ae tablet                           1
+Hendra                                        1
+Nipah virus                                   1
+ad5 vaccine                                   1
+Ebola virus gp                                1
+marburgvirus wild-type                        1
+Ebola virus vaccine                           1
+cholera                                       1
+h7n9                                          1
+human being 16                                1
+h5n1                                          1
+human coronaviruse                            1
+human betacoronavirus 2c emc/2012             1
+hcov-emc                                      1
+clomiphene citrate                            1
+polycystic ovary                              1
+high-dose                                     1
+doxorubicin                                   1
+oral t-705                                    1
+ebolavirus glycoprotein                       1
+node                                          1
+NP ]                                          1
+Food                                          1
